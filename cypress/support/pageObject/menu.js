@@ -41,7 +41,7 @@ class Menu {
         
     }
 
-    logIn(){
+    invalidLoginAndPassword(){
 
         cy.session('invalidPassLogin', () => {
             cy.visit('/')
