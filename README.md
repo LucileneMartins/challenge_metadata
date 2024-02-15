@@ -1,4 +1,4 @@
-# :woman_technologist: challenge_metadata
+# :woman_technologist: Project Cypress
 challenge_metadata
 
 Project Test Web
